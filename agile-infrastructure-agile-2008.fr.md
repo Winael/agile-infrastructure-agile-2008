@@ -13,9 +13,9 @@ email:
 
 ## Résumé
 
-Certains ont décrit Agile et Infrastructure comme étant un oxymore : ils ne s'emboîteraient tout simplement pas. Pendant un an, nous nous sommes concentrés sur l'utilisation de techniques agiles pour gérer trois projets d'infrastructure différents. D'un point de vue infrastructurel unique, nous montrerons que le terme " infrastructure agile " se compose de plusieurs couches.
+_Certains ont décrit Agile et Infrastructure comme étant un oxymore : ils ne s'emboîteraient tout simplement pas. Pendant un an, nous nous sommes concentrés sur l'utilisation de techniques agiles pour gérer trois projets d'infrastructure différents. D'un point de vue infrastructurel unique, nous montrerons que le terme " infrastructure agile " se compose de plusieurs couches._
 
-Pour être efficace, chaque couche doit être traitée.
+_Pour être efficace, chaque couche doit être traitée._
 
 ## 1. Cas n°1 : Migration de Datacenter
 
@@ -65,7 +65,7 @@ La livraison du premier sprint devait être testée par un déploiement réussi 
 
 L'approche progressive a eu un effet secondaire intéressant : dans le passé, lorsqu'une application était mise en service, un Contrat de niveau de service était négocié entre le client et son partenaire externe. Comme il s'agissait du document qui décrivait le moment où les pénalités devaient être payées, ce document a souvent suscité d'énormes discussions. Avec la nouvelle approche progressive, quand l'application était-elle terminée ? Les gestionnaires des Contrats de niveau de service n'étaient pas dans la boucle de la discussion. Même avec des améliorations significatives, les opérations ne signeraient pas l'acceptation, car on ne savait pas quand l'application ou l'infrastructure était terminée.
 
-## 2. Cas n°1 : Reprise après sinistre
+## 2. Cas n°2 : Reprise après sinistre
 
 ### 2.1. Dette technique
 
