@@ -198,30 +198,16 @@ L'introduction réussie de l'infrastructure Agile consiste à traiter à la fois
 
 ## 5. Lectures complémentaires
 
-[1] Pritchett, Dan, _Operational Manageability lessons learned from eBay_, 20 September 2007,
-http://www.infoq.com/news/2007/09/operational-mangeability
-[2] Hendrickson, Elisabeth, _You’re Kidding. It does WHAT in Production !?!_, 22 May 2007,
-http://video.google.com/videoplay?docid=627761504105495
-8810
-[3] Wilson, Scot, _Agile Operations_, 27 September 2007,
-http://www.indigomoonsystems.com/status/status.php?/archives/259-Agile-operations.html
+[1] Pritchett, Dan, _Operational Manageability lessons learned from eBay_, 20 September 2007, http://www.infoq.com/news/2007/09/operational-mangeability
+[2] Hendrickson, Elisabeth, _You’re Kidding. It does WHAT in Production !?!_, 22 May 2007, http://video.google.com/videoplay?docid=6277615041054958810
+[3] Wilson, Scot, _Agile Operations_, 27 September 2007, http://www.indigomoonsystems.com/status/status.php?/archives/259-Agile-operations.html
 [4] Anderson, David J., _Operations Review_, 20 September
-2007,
-http://www.agilemanagement.net/Articles/Weblog/OperationsReview-2.html
-[5] Nicolette, Dave, _Managing non-functional requirements and enterprise standards_, 30 December 2007
-http://dnicolet1.tripod.com/agile/index.blog?entry_id=1776642
-[6]Berteig, Mishkin, _Agile Infrastructure Projects_, 28 May 2005
-http://www.agileadvice.com/2005/09/28/agilemanagement/agile-infrastructure-projects-lessons-learned/
-[7] Gibbs, Ed, _Agile With Infrastructure Projects_ , 14 January 2008,
-http://edgibbs.com/2008/01/14/agile-with-infrastructure-projects
-http://times.usefulinc.com/2006/06/17-agile-infrastructure ,
-[8] Coon, Mike, _Agile Infrastructure_, 10 November 2007,
-http://blog.mikecoon.net/2007/11/10/agile-infrastructure.aspx
-[9] Agile 2006 Conference, _Agile Infrastructure_, 2006,
-http://agile2006.stikipad.com/public/show/AgileInfrastructure
-[10] Terry, Hamilton, _Agile for Infrastructure_, 2007,
-https://www-927.ibm.com/ibm/cas/archives/2007/workshops/workshop22.shtml
-[11] Schiel, Jim, _Scrum and an ‘operational’ team, Scrumdevelopment mailing-list_, 6 March 2008,
-http://groups.yahoo.com/group/scrumdevelopment/message/27881
-[12] Debois, Patrick, _Agile Infrastructure Operations_,
-http://www.jedi.be/agille-infrastructure
+2007, http://www.agilemanagement.net/Articles/Weblog/OperationsReview-2.html
+[5] Nicolette, Dave, _Managing non-functional requirements and enterprise standards_, 30 December 2007, http://dnicolet1.tripod.com/agile/index.blog?entry_id=1776642
+[6]Berteig, Mishkin, _Agile Infrastructure Projects_, 28 May 2005, http://www.agileadvice.com/2005/09/28/agilemanagement/agile-infrastructure-projects-lessons-learned/
+[7] Gibbs, Ed, _Agile With Infrastructure Projects_ , 14 January 2008, http://edgibbs.com/2008/01/14/agile-with-infrastructure-projects, http://times.usefulinc.com/2006/06/17-agile-infrastructure ,
+[8] Coon, Mike, _Agile Infrastructure_, 10 November 2007, http://blog.mikecoon.net/2007/11/10/agile-infrastructure.aspx
+[9] Agile 2006 Conference, _Agile Infrastructure_, 2006, http://agile2006.stikipad.com/public/show/AgileInfrastructure
+[10] Terry, Hamilton, _Agile for Infrastructure_, 2007, https://www-927.ibm.com/ibm/cas/archives/2007/workshops/workshop22.shtml
+[11] Schiel, Jim, _Scrum and an ‘operational’ team, Scrumdevelopment mailing-list_, 6 March 2008, http://groups.yahoo.com/group/scrumdevelopment/message/27881
+[12] Debois, Patrick, _Agile Infrastructure Operations_, http://www.jedi.be/agille-infrastructure
